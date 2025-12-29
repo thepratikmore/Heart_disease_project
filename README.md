@@ -15,6 +15,6 @@ Python libraries used:
 - jupyter
 
 Install all dependencies using:
-```bash
-[Matrix Correlation](
-pip install -r requirements.txt
+Mini anaconda
+[Matrix Correlation](https://github.com/thepratikmore/Heart_disease_project/blob/main/Correlation%20matrix.png)
+
