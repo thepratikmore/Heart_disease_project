@@ -4,7 +4,7 @@ This project is a **Machine Learning project** that predicts the presence of hea
 
 ## 📝 Dataset
 - `heart-disease.csv` contains patient information such as age, sex, blood pressure, cholesterol, etc.
-- Source: [Kaggle / Your dataset link]
+- Source: [Kaggle / https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]
 
 ## 🔧 Requirements
 Python libraries used:
