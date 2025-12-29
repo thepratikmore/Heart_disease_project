@@ -16,5 +16,6 @@ Python libraries used:
 
 Install all dependencies using:
 Mini anaconda
-![Correlation matrix]()
+
+[Correlation matrix](https://github.com/thepratikmore/Heart_disease_project/blob/main/Correlation%20matrix.png)
 
